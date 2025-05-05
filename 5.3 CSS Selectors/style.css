@@ -1,0 +1,28 @@
+ol {
+  margin-left: -40px;
+  margin-top: -20px;
+  list-style-position: inside;
+}
+
+/* Write your CSS below, don't change the rules above. */
+
+li[value="4"] {
+  color: blue;
+}
+
+body {
+  font-family: 'Times New Roman', Times, serif, sans-serif;
+  background-color: #f4f4f4;
+}
+
+p{
+  color: red;
+}
+
+
+
+#id-selector {
+  color: green;
+
+}
+
